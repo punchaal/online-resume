@@ -1,3 +1,4 @@
-# online-resume
+# Pratik Panchal Resume
 
-Resume for Pratik Panchal
+
+
